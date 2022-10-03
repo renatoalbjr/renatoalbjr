@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=2000&pause=1000&color=D95800&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;This+is+Renato.;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://renatoab.vercel.app">https://renatoab.vercel.app</a> | Learning CS at UFG
+</p>
+<img src="https://user-images.githubusercontent.com/48081224/193651684-0b35cb1f-0257-458e-9f4a-ba38bb5996d3.png" />
 
 <!--
 **renatoalbjr/renatoalbjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
